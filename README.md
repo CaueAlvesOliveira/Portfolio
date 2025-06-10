@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-Este repositório foi criado com o intuito de armazenar as infromações do desenvolvimento de um projeto acadêmico.
+Este repositório foi criado com o intuito de armazenar as informações do desenvolvimento de um projeto acadêmico.
 
 O repositório contém:
 
